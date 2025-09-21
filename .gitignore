@@ -1,0 +1,17 @@
+# Archivos de configuración sensibles
+firebase-config.js
+.env
+.env.local
+
+# Archivos del sistema  
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.vscode/
+.idea/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
